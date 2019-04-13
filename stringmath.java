@@ -1,6 +1,6 @@
-public class stringmath{
+public class string{
 	
-	public static String add(String a, String b){
+	public static String methode(String a, String b){
 		int temp;
 		String out = "";
 		if(a.length() != b.length()){
